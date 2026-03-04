@@ -1,7 +1,7 @@
 # Healthy-life
 
-Lading Page de una tienda de postres saludables, destacando su producto estrella: brownie con palta, combinando una propuesta moderna, limpia y enfocada en experiencia de usuario.
-A page made 100% with Astro, about a healthy brownie shop
+Lading Page de una tienda de postres saludables, destacando su producto estrella: brownie con palta, combinando una propuesta moderna, limpia y enfocada en experiencia de usuario.<br>
+A page made 100% with Astro, about a healthy brownie shop.
 
 <img src="./assets/img-1.png" alt="img-1">
 <img src="./assets/img-2.png" alt="img-2">
